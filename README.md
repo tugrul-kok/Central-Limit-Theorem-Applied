@@ -5,5 +5,5 @@ A = K1 + K2 + ... + Kn; where K1,K2,...Kn are independent and identically distri
 
 K1,K2,...Kn can be chosen as a sequence of uniform/exponential/Bernoulli/Poisson random variables.
 
-This code plots the normalized PDF/CDF histogram of A vectors. A vectors contains 10000 sample for each n value. This code also plots Gaussian PDF/CDF to observe cenrtal limit theorem.
+This code plots the normalized PDF/CDF histogram of A vectors. A vectors contains 10000(arbitrary) sample for each n value. This code also plots Gaussian PDF/CDF to observe cenrtal limit theorem.
 Gaussian parameters must be calculated by hand. 
